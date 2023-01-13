@@ -1,0 +1,8 @@
+com\example\demo\Dao\BookService.class
+com\example\demo\BookManagementAppApplication.class
+com\example\demo\Repository\BookRepository.class
+com\example\demo\Controller\BookController.class
+com\example\demo\Model\Book.class
+com\example\demo\exceptions\BookAlreadyExistsException.class
+com\example\demo\Response\ResponseHandler.class
+com\example\demo\Dao\BookServiceImpl.class
